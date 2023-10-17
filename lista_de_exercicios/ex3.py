@@ -22,6 +22,7 @@ for i in Q:
     if menor > i:
         menor = i
 
+    print('Lista de números:')
     print(Q)
     print(f'O maior valor é: {maior}')
     print(f'O menor valor é: {menor}')
