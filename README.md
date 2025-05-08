@@ -18,7 +18,7 @@ A proposta é resolver pequenos exercícios de forma contínua, abordando temas 
 Execute os scripts diretamente no terminal:
 
 ```bash
-python3 lista_de_exercicios/
+python3 ex1.py
 ````
 
 ## ✅ Progresso
